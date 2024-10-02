@@ -1,0 +1,11 @@
+.venv
+__pycache__
+*.pth
+*.csv
+*.pkl
+*.pt
+*.pkl
+*.pth
+*.csv
+*.pkl
+*.pt
